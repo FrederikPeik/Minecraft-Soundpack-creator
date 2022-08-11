@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------
+start = start the sound loading programm
+help = list all the commands (that's what you just did!)
+completion = show the number of sounds recorded, the overall number of minecraft sounds and the percentage of recorded sounds
+list = list all the recorded sounds
+fastmode = start the programm without any annoying questions. just sound after sound!
+order = toggle between sorted and random order in which the sounds are loaded
+quit = QUIT
+-----------------------------------------------------------------------------------------------

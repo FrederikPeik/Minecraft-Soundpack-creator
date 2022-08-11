@@ -1,0 +1,17 @@
+minecraft/sounds/mob/turtle/idle3.ogg
+minecraft/sounds/mob/frog/eat2.ogg
+minecraft/sounds/mob/piglin/step4.ogg
+minecraft/sounds/entity/witch/throw3.ogg
+minecraft/sounds/mob/fox/bite3.ogg
+minecraft/sounds/block/soul_sand/break7.ogg
+minecraft/sounds/step/scaffold7.ogg
+minecraft/sounds/mob/wandering_trader/hurt3.ogg
+minecraft/sounds/block/wooden_door/open3.ogg
+minecraft/sounds/mob/polarbear/death3.ogg
+minecraft/sounds/mob/strider/step4.ogg
+minecraft/sounds/block/muddy_mangrove_roots/step3.ogg
+minecraft/sounds/mob/dolphin/jump3.ogg
+minecraft/sounds/block/enchantment_table/enchant1.ogg
+minecraft/sounds/ambient/cave/cave1.ogg
+minecraft/sounds/ambient/cave/cave10.ogg
+minecraft/sounds/mob/frog/idle7.ogg
