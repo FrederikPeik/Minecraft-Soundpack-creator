@@ -4,7 +4,7 @@ import subprocess
 from random import randint
 import xerox
 
-workingDirectory = "/home/fred/Python/MinecraftSoundLoader/"
+workingDirectory = ''
 
 def cutOffFile(filepath):
     return filepath[:-len(filepath.split("/")[-1]) - 1]
