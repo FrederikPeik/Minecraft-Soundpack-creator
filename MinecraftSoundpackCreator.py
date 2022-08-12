@@ -46,6 +46,9 @@ else:
     setupFile = open(workingDirectory + 'setup.json', 'r')
     setupDictionary = json.load(setupFile)
     setupFile.close()
+    completedSoundsFile = open(workingDirectory + 'completedSounds.txt', 'r+')
+    completedSounds = completedSoundsFile.read().splitlines()
+    completedSoundsFile.close()
 
 indexFile = open(setupDictionary['indexDirectory'] + 'indexes/1.19.json')
 indexes = json.load(indexFile)
