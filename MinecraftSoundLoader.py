@@ -142,7 +142,7 @@ while not quit:
 
             input("The file path you should save your recorded sound in will be copied to your clipboard! press ENTER to start audacity: ")
 
-        xerox.copy(setupDictionary['soundDirectory'] + randomFileName, xsel=True)
+        xerox.copy(setupDictionary['soundDirectory'] + randomFileName)
         subprocess.run(['audacity', path])
 
         if not fastMode:
